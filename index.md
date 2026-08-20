@@ -52,6 +52,9 @@ Explore my technical projects and research experience across the following core 
   </div>
 </div>
 
+
+
+
 ## Areas of Expertise
 
 * [**Soft Robotics & Biomechanics**](/soft-robotics/)
