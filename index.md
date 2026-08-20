@@ -21,7 +21,7 @@ Explore my technical projects and research experience across the following core 
       <img src="/assets/images/Yousefsani.jpg" alt="Supervisor Avatar" class="supervisor-img">
       <div class="supervisor-text">
         <strong>Thesis Supervisor</strong><br>
-        Dr. [Seyed Abdolmajid Yousefsani]
+        Dr. Seyed Abdolmajid Yousefsani
       </div>
     </div>
   </div>
