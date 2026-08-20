@@ -1,0 +1,76 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* --- Education Card Styling --- */
+.edu-card {
+  float: right;
+  width: 320px;
+  margin: 0 0 20px 30px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  overflow: hidden;
+  border: 1px solid #eaeaea;
+  transition: transform 0.3s ease;
+}
+
+.edu-card:hover {
+  transform: translateY(-5px);
+}
+
+.uni-image {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-bottom: 3px solid #1e6bb8;
+}
+
+.edu-details {
+  padding: 20px;
+}
+
+.edu-details h3 {
+  margin-top: 0;
+  font-size: 1.15em;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.edu-meta {
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.supervisor {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+.supervisor-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 12px;
+  border: 2px solid #1e6bb8;
+}
+
+.supervisor-text {
+  font-size: 0.85em;
+  color: #444;
+  line-height: 1.3;
+}
+
+@media (max-width: 768px) {
+  .edu-card {
+    float: none;
+    width: 100%;
+    margin: 20px 0;
+  }
+}
