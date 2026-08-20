@@ -20,3 +20,5 @@ This section showcases my work in rigid body kinematics, modern control theory, 
 * **Rotating Timoshenko Beam Vibration:** Conducted continuous vibration analysis on a rotating Timoshenko beam, evaluating complex dynamic behaviors and structural responses under rotational forces.
 * * ![Transverse Vibrations of Rotating Beam](/assets/images/TimoshenkoBeam.png)
 * **Experimental Torque Estimation:** Designed an estimation framework using a combination of electromyography (EMG), loadcell, and encoder sensors to accurately predict torque. The experimental sensor datasets were processed to analyze power-torque profiles, utilizing custom MATLAB scripts to execute curve fitting and generate polished, IEEE LaTeX-styled figures for scientific reporting.
+ ![Experimental setup for torque estimation](/assets/images/TorqueEstimation.jpg)
+
