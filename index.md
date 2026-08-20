@@ -3,15 +3,22 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Engineering Portfolio
 
-I specialize in computational modeling, finite element analysis, and academic instruction.
+I am a mechanical engineer and researcher specializing in advanced computational modeling, dynamic systems control, finite element analysis, and academic instruction. 
 
-## Technical Projects
+Explore my technical projects and research experience across the following core domains:
 
-* **Wind Turbine Aerodynamics:** Analyzed 6-DOF dynamic mesh behavior, power generation, and atmospheric wind distributions.
-* **Structural Analysis:** Simulated dynamic structural responses and harmonic modeling under complex load inputs.
+## Areas of Expertise
 
-## Academic Leadership
+* [**Soft Robotics & Biomechanics**](/soft-robotics/)
+  * *Fin Ray Gripper modeling, real-time tissue dynamics, and Traumatic Brain Injury (TBI) simulation.*
 
-* **Advanced Robotics:** Directed project workflows, evaluated kinematics formulations, and guided MuJoCo simulation validations.
+* [**Computational Fluid Dynamics & FEA**](/cfd-fea/)
+  * *Axial turbine aerodynamics, microfluidics, and structural mechanical analysis using ANSYS solvers.*
+
+* [**Dynamics, Control Systems & Estimation**](/dynamics-control/)
+  * *Rigid body kinematics, multivariable control systems, vibration analysis, and sensor data processing.*
+
+* [**Academic Leadership**](/academic-leadership/)
+  * *Mentorship and technical instruction in Advanced Robotics, Mechanical Vibrations, and Differential Equations.*
