@@ -11,6 +11,7 @@ This section showcases my work in rigid body kinematics, modern control theory, 
 ## Robotics & Aerial Control Systems
 
 * **6DOF Stanford Robot Manipulator:** Derived the complex kinematics and dynamics for a 6-Degree-of-Freedom Stanford manipulator, designing and implementing robust control strategies for precise robotic positioning.
+* ![6DOF Stanford Robot Manipulator](/assets/images/Stanford.png)
 * **2DOF Helicopter Control:** Developed and applied modern control theories to stabilize and maneuver a 2-Degree-of-Freedom helicopter system, utilizing a Quanser experimental setup to validate theoretical control models in a physical environment.
 * ![Quanser 2DOF Helicopter Control Simulation](/assets/images/helicopter1.png)
 
