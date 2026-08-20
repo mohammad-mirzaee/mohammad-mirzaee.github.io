@@ -4,10 +4,8 @@
 
 /* --- Education Card Styling --- */
 .edu-card {
-  float: right;
-  clear: right;
   width: 320px;
-  margin: 0 0 20px 30px;
+  margin: 30px auto; /* 'auto' forces the card into the exact center */
   background: #ffffff;
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0,0,0,0.12);
