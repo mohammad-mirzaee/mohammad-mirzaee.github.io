@@ -9,7 +9,7 @@ I am a mechanical engineer and researcher specializing in advanced computational
 
 Explore my technical projects and research experience across the following core domains:
 <div class="edu-card">
-  <img src="/assets/images/university.jpg" alt="University Campus" class="uni-image">
+  <img src="/assets/images/FUM.jpg" alt="University Campus" class="uni-image">
   <div class="edu-details">
     <h3>BSc Mechanical Engineering</h3>
     <div class="edu-meta">
@@ -18,7 +18,7 @@ Explore my technical projects and research experience across the following core 
       Period: [2019] – [2023]
     </div>
     <div class="supervisor">
-      <img src="/assets/images/supervisor.jpg" alt="Supervisor Avatar" class="supervisor-img">
+      <img src="/assets/images/Yousefsani.jpg" alt="Supervisor Avatar" class="supervisor-img">
       <div class="supervisor-text">
         <strong>Thesis Supervisor</strong><br>
         Dr. [Seyed Abdolmajid Yousefsani]
