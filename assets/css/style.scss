@@ -5,6 +5,7 @@
 /* --- Education Card Styling --- */
 .edu-card {
   float: right;
+  clear: right;
   width: 320px;
   margin: 0 0 20px 30px;
   background: #ffffff;
@@ -44,12 +45,18 @@
   margin-bottom: 15px;
 }
 
-.supervisor {
-  display: flex;
-  align-items: center;
+.supervisor-list {
   margin-top: 15px;
   padding-top: 15px;
   border-top: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.supervisor-item {
+  display: flex;
+  align-items: center;
 }
 
 .supervisor-img {
