@@ -51,9 +51,7 @@ Explore my technical projects and research experience across the following core 
     </div>
   </div>
 </div>
-
-
-
+<div style="clear: both;"></div>
 
 ## Areas of Expertise
 
