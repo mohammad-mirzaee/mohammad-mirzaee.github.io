@@ -1,5 +1,6 @@
 title: Mohammad Mirzaee
 description: Engineering Portfolio & Simulation Research
+logo: /assets/images/profile.png
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-seo-tag
