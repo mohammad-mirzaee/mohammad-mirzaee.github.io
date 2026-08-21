@@ -8,6 +8,7 @@ title: Home
   <a href="/cfd-fea/">CFD & FEA</a>
   <a href="/dynamics-control/">Dynamics</a>
 </nav>
+
 # Welcome to My Engineering Portfolio
 
 I am a mechanical engineer and researcher specializing in advanced computational modeling, dynamic systems control, finite element analysis, and academic instruction. 
