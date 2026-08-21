@@ -57,6 +57,19 @@ Explore my technical projects and research experience across the following core 
   </div>
 </div>
 
+## Areas of Expertise
+* [**Soft Robotics & Biomechanics**](/soft-robotics/)
+  * *Fin Ray Gripper modeling, real-time tissue dynamics, and Traumatic Brain Injury (TBI) simulation.*
+
+* [**Computational Fluid Dynamics & FEA**](/cfd-fea/)
+  * *Axial turbine aerodynamics, microfluidics, and structural mechanical analysis using ANSYS solvers.*
+
+* [**Dynamics, Control Systems & Estimation**](/dynamics-control/)
+  * *Rigid body kinematics, multivariable control systems, vibration analysis, and sensor data processing.*
+
+* [**Academic Leadership**](/academic-leadership/)
+  * *Mentorship and technical instruction in Advanced Robotics, Mechanical Vibrations, and Differential Equations.*
+ 
 <div class="life-section">
   <div class="life-title">Beyond the Screen: Industry & Athletics</div>
   <div class="life-grid">
@@ -72,17 +85,3 @@ Explore my technical projects and research experience across the following core 
     </div>
   </div>
 </div>
-
-
-## Areas of Expertise
-* [**Soft Robotics & Biomechanics**](/soft-robotics/)
-  * *Fin Ray Gripper modeling, real-time tissue dynamics, and Traumatic Brain Injury (TBI) simulation.*
-
-* [**Computational Fluid Dynamics & FEA**](/cfd-fea/)
-  * *Axial turbine aerodynamics, microfluidics, and structural mechanical analysis using ANSYS solvers.*
-
-* [**Dynamics, Control Systems & Estimation**](/dynamics-control/)
-  * *Rigid body kinematics, multivariable control systems, vibration analysis, and sensor data processing.*
-
-* [**Academic Leadership**](/academic-leadership/)
-  * *Mentorship and technical instruction in Advanced Robotics, Mechanical Vibrations, and Differential Equations.*
