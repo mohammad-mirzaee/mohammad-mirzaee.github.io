@@ -73,8 +73,8 @@ Explore my technical projects and research experience across the following core 
   </div>
 </div>
 
-## Areas of Expertise
 
+## Areas of Expertise
 * [**Soft Robotics & Biomechanics**](/soft-robotics/)
   * *Fin Ray Gripper modeling, real-time tissue dynamics, and Traumatic Brain Injury (TBI) simulation.*
 
