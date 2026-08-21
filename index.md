@@ -28,11 +28,15 @@ Explore my technical projects and research experience across the following core 
       <div style="font-size: 0.9em; color: #555; margin-bottom: 5px;"><strong>Thesis Supervisors:</strong></div>
       <div class="supervisor-item">
         <img src="/assets/images/AfshinTaghvaeipour.png" alt="Dr. Afshin Taghvaeipour" class="supervisor-img">
-        <div class="supervisor-text">Dr. Afshin Taghvaeipour</div>
+        <div class="supervisor-text">
+          <a href="https://scholar.google.com/citations?user=kpPHZ94AAAAJ&hl=en" target="_blank" style="color: #1e6bb8; text-decoration: none; font-weight: bold;">Dr. Afshin Taghvaeipour</a>
+        </div>
       </div>
       <div class="supervisor-item">
         <img src="/assets/images/MohammadZareinejad.png" alt="Dr. Mohammad Zareinejad" class="supervisor-img">
-        <div class="supervisor-text">Dr. Mohammad Zareinejad</div>
+        <div class="supervisor-text">
+          <a href="https://scholar.google.com/citations?user=xx8zwXYAAAAJ&hl=en" target="_blank" style="color: #1e6bb8; text-decoration: none; font-weight: bold;">Dr. Mohammad Zareinejad</a>
+        </div>
       </div>
     </div>
   </div>
@@ -43,21 +47,22 @@ Explore my technical projects and research experience across the following core 
   <div class="edu-details">
     <h3>BSc Mechanical Engineering</h3>
     <div class="edu-meta">
-      <strong>[Ferdowsi University of Mashhad]</strong><br>
-      Grade: [17.83/20] <br>
-      Period: [2019] – [2023]
+      <strong>Ferdowsi University of Mashhad</strong><br>
+      Grade: 17.83/20 <br>
+      Period: 2019 – 2023
     </div>
     <div class="supervisor">
       <img src="/assets/images/Yousefsani.jpg" alt="Supervisor Avatar" class="supervisor-img">
       <div class="supervisor-text">
         <strong>Thesis Supervisor</strong><br>
-        Dr. Seyed Abdolmajid Yousefsani
+        <a href="https://scholar.google.com/citations?user=stc73FEAAAAJ&hl=en" target="_blank" style="color: #1e6bb8; text-decoration: none; font-weight: bold;">Dr. Seyed Abdolmajid Yousefsani</a>
       </div>
     </div>
   </div>
 </div>
 
 ## Areas of Expertise
+
 * [**Soft Robotics & Biomechanics**](/soft-robotics/)
   * *Fin Ray Gripper modeling, real-time tissue dynamics, and Traumatic Brain Injury (TBI) simulation.*
 
@@ -69,7 +74,7 @@ Explore my technical projects and research experience across the following core 
 
 * [**Academic Leadership**](/academic-leadership/)
   * *Mentorship and technical instruction in Advanced Robotics, Mechanical Vibrations, and Differential Equations.*
- 
+  
 <div class="life-section">
   <div class="life-title">Beyond the Screen: Industry & Athletics</div>
   <div class="life-grid">
@@ -85,3 +90,4 @@ Explore my technical projects and research experience across the following core 
     </div>
   </div>
 </div>
+
