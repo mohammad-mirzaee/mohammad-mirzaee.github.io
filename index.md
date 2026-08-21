@@ -1,6 +1,12 @@
 ---
 layout: default
 title: Home
+<nav class="glass-nav">
+  <a href="/">Home</a>
+  <a href="/soft-robotics/">Soft Robotics</a>
+  <a href="/cfd-fea/">CFD & FEA</a>
+  <a href="/dynamics-control/">Dynamics</a>
+</nav>
 ---
 
 # Welcome to My Engineering Portfolio
