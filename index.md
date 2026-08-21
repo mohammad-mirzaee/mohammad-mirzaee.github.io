@@ -1,4 +1,4 @@
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4616f41b-8e06-410f-ac36-84a727010510" />---
 layout: default
 title: Home
 ---
@@ -58,6 +58,28 @@ Explore my technical projects and research experience across the following core 
   </div>
 </div>
 <div style="clear: both;"></div>
+<div class="life-section">
+  <div class="life-title">Beyond the Screen: Industry & Athletics</div>
+  <div class="life-grid">
+    
+  <div class="life-card">
+      <img src="/assets/images/internship.jpg" alt="Hamgarsanat Toos Engineering Team" class="life-image">
+      <div class="life-heading">Hamgarsanat Toos Internship</div>
+      <div class="life-text">
+        Bridging the gap between theoretical modeling and practical manufacturing. Working directly on the factory floor provided invaluable hands-on experience with industrial assembly, mechanical design protocols, and rigorous quality assurance testing in a fast-paced environment.
+      </div>
+    </div>
+
+  <div class="life-card">
+      <img src="/assets/images/basketball.jpg" alt="Basketball Team" class="life-image">
+      <div class="life-heading">Competitive Basketball</div>
+      <div class="life-text">
+        I actively compete in national country tournaments as well as the Tehran universities basketball leagues. Competing at a high level fosters intense discipline, rapid decision-making under pressure, and seamless teamwork—skills that translate directly into my engineering career.
+      </div>
+    </div>
+
+  </div>
+</div>
 
 ## Areas of Expertise
 
