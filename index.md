@@ -38,7 +38,6 @@ Explore my technical projects and research experience across the following core 
   </div>
 </div>
 
-
 <div class="edu-card">
   <img src="/assets/images/FUM.jpg" alt="University Campus" class="uni-image">
   <div class="edu-details">
@@ -57,11 +56,7 @@ Explore my technical projects and research experience across the following core 
     </div>
   </div>
 </div>
-<div style="clear: both;"></div>
-<div class="life-section">
-  <div class="life-title">Beyond the Screen: Industry & Athletics</div>
-  <div class="life-grid">
-    
+
 <div class="life-section">
   <div class="life-title">Beyond the Screen: Industry & Athletics</div>
   <div class="life-grid">
@@ -77,6 +72,7 @@ Explore my technical projects and research experience across the following core 
     </div>
   </div>
 </div>
+
 ## Areas of Expertise
 
 * [**Soft Robotics & Biomechanics**](/soft-robotics/)
