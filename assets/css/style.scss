@@ -114,4 +114,68 @@ body {
     width: 100%;
     margin: 20px 0;
   }
+
+  /* --- Extracurricular & Industry Section --- */
+.life-section {
+  background-color: #4a533a; /* Earthy olive green */
+  color: #fcfaf8;
+  border-radius: 80px 80px 100px 100px; /* Organic pill shape */
+  padding: 50px 40px;
+  margin: 60px 0;
+  text-align: center;
+}
+
+.life-title {
+  font-size: 0.95em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #d1d6c8;
+}
+
+.life-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.life-card {
+  flex: 1;
+  max-width: 45%;
+  text-align: left;
+}
+
+.life-image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 20px; /* Soft rounded corners for the photos */
+  margin-bottom: 15px;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+.life-heading {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.life-text {
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: #e3e6de;
+}
+
+@media (max-width: 768px) {
+  .life-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+  .life-card {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+}
+  
 }
