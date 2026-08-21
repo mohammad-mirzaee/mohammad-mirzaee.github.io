@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4616f41b-8e06-410f-ac36-84a727010510" />---
 layout: default
 title: Home
 ---
